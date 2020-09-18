@@ -4,3 +4,4 @@ this a blog built with Django framework
 - Login/out
 - sign up
 - Create, Update, Delete
+- Reset Password
