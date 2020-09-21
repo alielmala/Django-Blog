@@ -15,3 +15,9 @@ this a micro-blog built with the Django framework.
   * you can test now
 
 * you can screenshots for the project in pics directory
+
+to test the project:
+- install python
+- install pip
+- pip install django
+- pip install django-crispy-forms
