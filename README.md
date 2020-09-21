@@ -1,6 +1,9 @@
 # Django-Blog
-this a blog built with Django framework
+this a blog built with Django framework.
+
+
 # Features:
-- Login/out
-- sign up
-- Create, Update, Delete
+- create your account, update any information of it.
+- create new posts, update them, and delete them.
+- rest password.
+ * I have deleted the repository and uploaded again because a problem in committing
